@@ -28,4 +28,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when making changes that you don't want to affect the project just yet.
+    separate: can experiment without risk of breaking something
+    directly: changes happen quicker and don't have to deal with merging
